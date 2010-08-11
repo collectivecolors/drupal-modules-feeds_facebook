@@ -1,0 +1,7 @@
+;$Id$
+name = Feeds: Facebook
+description = Adds a Facebook activity stream feed processor to the Feeds module.
+package = Feeds
+dependencies[] = feeds
+core = 6.x
+php = 5.2
